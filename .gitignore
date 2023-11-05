@@ -1,1 +1,6 @@
 
+# ignoring .env file  
+.env
+
+# files not using
+langchain.ipynb
